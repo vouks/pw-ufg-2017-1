@@ -8,5 +8,6 @@ Repositório dedicado as atividades da disciplina Programação Web - Universida
 
 ## Para fazer clone
 
+```bash
 git clone https://github.com/vouks/pw-ufg-2017-1
-
+```
