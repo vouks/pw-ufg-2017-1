@@ -11,3 +11,16 @@ Repositório dedicado as atividades da disciplina Programação Web - Universida
 ```bash
 git clone https://github.com/vouks/pw-ufg-2017-1
 ```
+
+## Para rodar com o Tomcat na porta 8080
+
+```bash
+mvn org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=8080
+```
+
+## Para acessar a aplicação
+
+```bash
+http://http://localhost:8080/renan/
+```
+
