@@ -4,7 +4,9 @@
 
 Repositório dedicado as atividades da disciplina Programação Web - Universidade Federal de Goiás, ministrada pelo professor Walison Moreira.
 
-## Primeira atividade
+# Primeira atividade - Bibliografia
 
-- Pequena bibliografia
+## Para fazer clone
+
+git clone https://github.com/vouks/pw-ufg-2017-1
 
