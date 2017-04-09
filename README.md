@@ -21,6 +21,6 @@ mvn org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=8080
 ## Para acessar a aplicação
 
 ```bash
-http://http://localhost:8080/renan-pw/
+http://localhost:8080/renan-pw
 ```
 
