@@ -10,7 +10,7 @@ html, body {
 
 body {
 	align-items: center;
-    background-color:lightcoral;
+    background-color:lightslategrey;
 	display: flex;
 	font-family: 'Raleway', sans-serif;
 	flex-direction: column;
@@ -45,4 +45,17 @@ h2 {
 
 p {
   color: black;  
+}
+
+a{
+    display:inline-block;
+    text-decoration:none;
+    padding:6px 4px;
+    border:1px solid white;
+    background-color: darkblue;
+    color: white;
+    font:15px arial, sans-serif;
+}
+a:hover{
+    border-color: white;
 }
